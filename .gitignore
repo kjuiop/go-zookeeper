@@ -4,3 +4,6 @@ profile.cov
 zookeeper
 zookeeper-*/
 zookeeper-*.tar.gz
+
+#idea
+.idea
